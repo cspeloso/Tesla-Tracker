@@ -1,7 +1,7 @@
 # Tesla Tracker
 ## Get Notified When Tesla Cars Get Listed On The Tesla Website
 
-This python script uses Selenium & chromedriver to load and parse through the [inventory page] (https://www.tesla.com/inventory/new/my?arrangeby=relevance&zip=90210&range=200) on the Tesla website, and send you notification when a car in your price range is listed.
+This python script uses Selenium & chromedriver to load and parse through the [inventory page](https://tesla.com/inventory/new/my?arrangeby=relevance&zip=90210&range=200) on the Tesla website, and send you notification when a car in your price range is listed.
 
 ### What's the purpose of this?
 I use this to keep track of Teslas that get listed on the Tesla website that are in the price range I'm interested in buying at. I decided to make this when I noticed that cars would get listed and bought out within an hour of getting listed.
