@@ -10,3 +10,9 @@ For me, that was overkill.
 Here's an example of the config.ini file:
 
 ![SCR-20240113-twbn](https://github.com/cspeloso/Tesla-Tracker/assets/36888899/3a993ea4-ef73-4779-8bc4-e6198e950113)
+
+Again, the ideal way to use this is to set it up as a cronjob.
+
+on my Mac Mini, I can set this up as a cronjob and then put the computer to sleep and it'll continue to run while in sleep mode.
+
+This is perfect, especially since the Mac Mini M1 consumes to little power even when on ;-)
