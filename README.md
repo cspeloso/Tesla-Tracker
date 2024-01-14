@@ -22,7 +22,7 @@ Here's an example of the config.ini file (I've blurred out my own API keys):
 
 ### How does this work?
 ------------
-Once the car gets parsed through, it'll determine if it's a right fit and then send a notification through the service [Pushover] (https://pushover.net/).
+Once the car gets parsed through, it'll determine if it's a right fit and then send a notification through the service [Pushover](https://pushover.net/).
 
 Once the script reaches the Pushover notification part, you can change this to do whatever you want with that data.
 
